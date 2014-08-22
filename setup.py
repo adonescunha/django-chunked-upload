@@ -14,7 +14,7 @@ from support import version
 
 setup(
     name='django-chunked-upload',
-    version='0.1.0',
+    version='0.1.1',
     description='Chunked upload Django views implementation using django-resumable.',
     author='Adones Cunha',
     author_email='adonescunha@gmail.com',
@@ -33,7 +33,4 @@ setup(
         'Framework :: Django',
         'Topic :: Software Development :: Testing'
     ],
-    install_requires=[
-        'django-resumable'
-    ]
 )
