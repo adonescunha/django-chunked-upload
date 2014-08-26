@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from resumable.files import ResumableFile
-from sougenius.utils.templatetags.useful_tags import normalize_ascii
+from .utils import normalize_ascii
 
 class ChunkedFile(ResumableFile):
 
