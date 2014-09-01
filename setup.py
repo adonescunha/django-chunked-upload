@@ -14,7 +14,7 @@ from chunked_upload import version
 
 setup(
     name='django-chunked-upload',
-    version='0.1.2',
+    version='0.1.3',
     description='Chunked upload Django views implementation using django-resumable.',
     author='Adones Cunha',
     author_email='adonescunha@gmail.com',
