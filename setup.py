@@ -9,7 +9,7 @@
 
 from setuptools import setup
 
-from support import version
+from chunked_upload import version
 
 
 setup(
